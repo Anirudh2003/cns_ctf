@@ -1,0 +1,23 @@
+{
+  "name": "cns_ctf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anirudh2003/cns_ctf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anirudh2003/cns_ctf/issues"
+  },
+  "homepage": "https://github.com/Anirudh2003/cns_ctf#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
